@@ -8,4 +8,4 @@ This  major Project work entitled “ SELFEMP ”(HR Based App) is a  web applic
 
 ## Live Version
 
-**[Click here! :)](https://poojaranim.github.io/SelfEmp/)**
+**[Click here! :)](https://poojaranim.github.io/Self-Emp/)**
