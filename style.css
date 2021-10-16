@@ -125,11 +125,11 @@ form.sign-in-form {
 /* ============ANIMATION=============== */ 
 
 .container.sign-up-mode:before { 
-  transform: translate(100%, -60%); right: 52%; 
+  transform: translate(100%, -50%); right: 52%; 
 }
 
 .container.sign-up-mode .left-panel .image, .container.sign-up-mode .left-panel .content { 
-  transform: translateX(-800px); 
+  transform: translateX(-900px); 
 } 
 
 .container.sign-up-mode .signin-signup { 
