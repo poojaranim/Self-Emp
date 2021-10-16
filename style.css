@@ -58,7 +58,7 @@ form.sign-in-form {
   background: none; outline: none; border: none; line-height: 1; font-weight: 600; font-size: 1.1rem; color: #333; 
 } 
 .input-field select { 
-  background: none; outline: none; border: none; line-height: 1; font-weight: 600; font-size: 1.1rem; color: #333; 
+  background: none; outline: none; border: none; line-height: 1; font-weight: 500; font-size: 1.1rem; color: #aaa; 
 } 
 
 
@@ -125,7 +125,7 @@ form.sign-in-form {
 /* ============ANIMATION=============== */ 
 
 .container.sign-up-mode:before { 
-  transform: translate(100%, -50%); right: 52%; 
+  transform: translate(100%, -60%); right: 52%; 
 }
 
 .container.sign-up-mode .left-panel .image, .container.sign-up-mode .left-panel .content { 
